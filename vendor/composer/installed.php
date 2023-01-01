@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'b9b6d80b7bd470902bce4160013138ba31d585ff',
+        'reference' => '148072e22082634c379342123836b5c0d0a3fc01',
         'name' => 'alber/unit-test-php',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'b9b6d80b7bd470902bce4160013138ba31d585ff',
+            'reference' => '148072e22082634c379342123836b5c0d0a3fc01',
             'dev_requirement' => false,
         ),
         'doctrine/instantiator' => array(
